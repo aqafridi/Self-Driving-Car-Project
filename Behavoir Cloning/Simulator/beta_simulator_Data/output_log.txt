@@ -1,0 +1,72 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2146 MB
+    Driver:   27.20.100.8854
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: D:\7th Semester\1.Final Year Project\softwares\term1-simulator-windows\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.355900 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3ee0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.033700 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.511000 ms (FindLiveObjects: 0.049900 ms CreateObjectMapping: 0.035100 ms MarkObjects: 0.387100 ms  DeleteObjects: 0.021800 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.762500 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 1.345300 ms (FindLiveObjects: 0.132600 ms CreateObjectMapping: 0.059600 ms MarkObjects: 0.504000 ms  DeleteObjects: 0.648500 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

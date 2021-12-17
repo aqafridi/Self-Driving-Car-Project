@@ -15,7 +15,7 @@ import cv2
 sio = socketio.Server()
 #### FLASK IS A MICRO WEB FRAMEWORK WRITTEN IN PYTHON
 app = Flask(__name__)  # '__main__'
- 
+
 maxSpeed = 10
  
  
